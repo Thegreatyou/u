@@ -22,8 +22,9 @@ export const ProductPageTemplate = ({
     <div
       className="full-width-image-container margin-top-0"
       style={{
-        backgroundImage: `url(${!!image.childImageSharp ? image.childImageSharp.fluid.src : image
-          })`,
+        backgroundImage: `url(${
+          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+        })`,
       }}
     >
       <h2
@@ -43,7 +44,16 @@ export const ProductPageTemplate = ({
         <div className="section">
           <div className="columns">
             <div className="column is-7 is-offset-1">
-              <div class="arena-chat" data-publisher="the-great-you" data-chatroom="the-great-you-global" data-position="in-page"></div><script async src="https://go.arena.im/public/js/arenachatlib.js?p=the-great-you&e=the-great-you-global"></script>
+              <div
+                class="arena-chat"
+                data-publisher="the-great-you"
+                data-chatroom="the-great-you-global"
+                data-position="in-page"
+              ></div>
+              <script
+                async
+                src="https://go.arena.im/public/js/arenachatlib.js?p=the-great-you&e=the-great-you-global"
+              ></script>
             </div>
           </div>
         </div>
