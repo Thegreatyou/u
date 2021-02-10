@@ -5,7 +5,7 @@ image: /img/image.png
 heading: Great coffee with a conscience
 subheading: Сообщество взаимоподдержки девушек СНГ
 mainpitch:
-  title: Why Kaldi
+  title: Каждая рядом
   description: >
     Ты не одна против мира. Мизогиния в прошлом. У нас общие истории и схожие
     проблемы. Мы есть друг у друга, и ты можешь пользоваться этой поддержкой и
