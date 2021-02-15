@@ -1,19 +1,16 @@
 ---
 templateKey: index-page
-title: The great you
+title: "-"
 image: /img/image.png
-heading: Great coffee with a conscience
+heading: Каждая рядом
 subheading: Сообщество взаимоподдержки девушек СНГ
 mainpitch:
-  title: Каждая рядом
-  description: >
-    Ты не одна против мира. Мизогиния в прошлом. У нас общие истории и схожие
-    проблемы. Мы есть друг у друга, и ты можешь пользоваться этой поддержкой и
-    силой
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: The Great You
+  description: |
+    Сообщество взаимоподдержки девушек СНГ
+description: Ты не одна против мира. Мизогиния в прошлом. У нас общие истории и
+  схожие проблемы. Мы есть друг у друга, и ты можешь пользоваться этой
+  поддержкой и силой
 intro:
   blurbs:
     - image: /img/photo_2021-01-19_22-15-30.jpg
