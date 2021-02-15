@@ -3,7 +3,7 @@ templateKey: index-page
 title: "-"
 image: /img/image.png
 heading: Каждая рядом
-subheading: Сообщество взаимоподдержки девушек СНГ
+subheading: "-"
 mainpitch:
   title: The Great You
   description: |
