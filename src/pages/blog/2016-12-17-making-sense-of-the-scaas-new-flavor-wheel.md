@@ -1,34 +1,33 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+title: Как создавалось это сообщество?
+date: 2021-02-21T22:01:42.441Z
+description: Я могу делиться своит опытом так же, как и каждая из нас. Нас могут
+  не слышать мужчины, которые никогда не были на нашем месте. Но хотя бы одна
+  точно имеет похожий опыт.
+featuredpost: true
+featuredimage: /img/photo_2021-01-19_18-27-01.jpg
 tags:
-  - flavor
-  - tasting
+  - поддержка
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![](/img/photo_2021-01-19_18-27-01.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Мне было очень плохо. У меня болел живот. Я стала вспоминать в каких странах разрешена эвтаназия. 
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Пройдя через это, мне хотелось чтобы ни с кем такого не случалось. 
 
-## What the updates mean to you?
+Я могу делиться своит опытом так же, как и каждая из нас. Нас могут не слышать мужчины, которые никогда не были на нашем месте. Но хотя бы одна точно имеет похожий опыт.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Мы изолированы в соцсетях. Иногда мы находим сообщества, к которым можем присоединиться, но никто не объединяет нас как женщин. Как уникальную группу с уникальным опытом. 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Мы выросли в Украине, Казахстане и можем понять с чем сталкиваемся каждый день. Кто-то уже прошел этот путь. Почему мы не совсем уникальны? Потому что система моральных устоев и наследия задает рамки. Если ты не замечаешь дискриминации, это не значит что ты ей не подтвергаешься.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Мы не должны ничего доказывать мужчинам. Твой главный приоритет - ты. И это нормально, что у тебя может не быть сил на минимальную заботу о себе. С тобой все в порядке. И это нормально обращаться за поддержкой. Вокруг тысячи женщин, у которых есть ресурс чтобы поддержать тебя в этот момент. Ты не одна. Ты никогда не будешь одна.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Никто не может осудить и сказать что точно знает что с тобой происходит. Но мы можем быть рядом. Чтобы сделать лучше тебе. Помогая себе, ты помогаешь и другим женщинам. Ты создаешь прецедент. Ты создаешь новый путь, выходя из циклов. Ты молодец. 
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Ты не должна быть тут активной или что-то ещё. Заходить и забирать - тоже вариант нормы. Единственное, я прошу тебя следовать основным правилам здорового общения: не обесценивать, не надевать белое пальто, не оскорблять. 
+
+Я знаю, это может быть трудно: думаю, у меня самой ушло на это несколько лет. Поэтому я прошу, а не требую: мы находимся в разных состояниях, постарайся не причинять зла. 
+
+Я знаю: вместе мы все сможем.
